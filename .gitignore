@@ -1,0 +1,75 @@
+# =========================
+
+# Python
+
+# =========================
+
+**pycache**/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+
+venv/
+env/
+.venv/
+
+# Distribution / packaging
+
+build/
+dist/
+*.egg-info/
+
+# Logs
+
+*.log
+
+# IDE
+
+.vscode/
+.idea/
+
+# =========================
+
+# C / C++
+
+# =========================
+
+# Compiled files
+
+*.o
+*.obj
+*.so
+*.dll
+*.exe
+*.out
+*.a
+*.lib
+
+# Build directories
+
+build/
+cmake-build-*/
+
+# CMake
+
+CMakeFiles/
+CMakeCache.txt
+compile_commands.json
+Makefile
+
+# =========================
+
+# General
+
+# =========================
+
+# OS files
+
+.DS_Store
+Thumbs.db
+
+# Temporary files
+
+*.tmp
+*.temp
